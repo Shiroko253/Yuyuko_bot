@@ -12,7 +12,6 @@ Thank you for using my Discord bot. I truly appreciate your support!
 ## Features
 
 Currently, the bot supports AI chat functionality and a few predefined message detections.
-
 Detailed message triggers and examples will be provided in a separate document soon.
 
 ---
@@ -21,6 +20,8 @@ Detailed message triggers and examples will be provided in a separate document s
 
 ### General Commands
 
+* `/about-bot` — Info about Yuyuko
+* `/invite` — Generate an invite link for Yuyuko
 * `/time` — Check how long Yuyuko has been idle
 * `/ping` — Check Yuyuko's latency to the living world
 * `/server_info` — Yuyuko will give you server information
@@ -30,6 +31,8 @@ Detailed message triggers and examples will be provided in a separate document s
 
 ### Economy
 
+> **Note:** The currency used is "Ghost Coins". It is **not** shared with other bots.
+
 * `/balance` — Check your current balance
 * `/leaderboard` — View top wealthiest users and the highest taxed
 * `/choose_job` — Pick a job to earn money (special jobs cannot work)
@@ -37,6 +40,8 @@ Detailed message triggers and examples will be provided in a separate document s
 * `/work` — Perform your job (cooldown: 60s)
 * `/shop` — Visit a shop for stress-relief items
 * `/backpack` — See what goodies you have in your inventory
+* `/server_bank` — View Yuyuko's virtual bank
+* `/pay` — Transfer part of your balance to another user
 
 ### Admin Permissions
 
